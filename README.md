@@ -1,8 +1,8 @@
-# 📱 Gerador de QR Code
+# Gerador de QR Code
 
 Projeto desenvolvido com HTML, CSS e JavaScript para gerar QR Codes de forma rápida e prática a partir de textos, links ou qualquer informação inserida pelo usuário.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 * Geração instantânea de QR Codes
 * Suporte para URLs, textos e informações diversas
@@ -10,14 +10,14 @@ Projeto desenvolvido com HTML, CSS e JavaScript para gerar QR Codes de forma rá
 * Atualização dinâmica do QR Code
 * Design responsivo
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * HTML5
 * CSS3
 * JavaScript
 * API/Biblioteca para geração de QR Code
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 /
@@ -27,7 +27,7 @@ Projeto desenvolvido com HTML, CSS e JavaScript para gerar QR Codes de forma rá
 └── README.md
 ```
 
-## ▶️ Como Executar
+## Como Executar
 
 1. Clone o repositório:
 
@@ -43,7 +43,7 @@ cd gerador-qrcode
 
 3. Abra o arquivo `index.html` em seu navegador.
 
-## 📚 Aprendizados
+## Aprendizados
 
 Durante o desenvolvimento deste projeto foram praticados conceitos como:
 
@@ -53,11 +53,11 @@ Durante o desenvolvimento deste projeto foram praticados conceitos como:
 * Geração dinâmica de conteúdo
 * Estruturação de interfaces web
 
-## 🎯 Objetivo
+## Objetivo
 
 O objetivo deste projeto é praticar o desenvolvimento front-end criando uma ferramenta capaz de gerar QR Codes dinamicamente a partir de informações fornecidas pelo usuário.
 
-## 🔗 Possíveis Utilizações
+## Possíveis Utilizações
 
 * Compartilhamento de links
 * Contatos profissionais
@@ -65,6 +65,6 @@ O objetivo deste projeto é praticar o desenvolvimento front-end criando uma fer
 * Documentos digitais
 * Informações de acesso rápido
 
-## 👨‍💻 Autor
+## Autor
 
 Desenvolvido por **Vitória Dietrich**.
