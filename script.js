@@ -39,4 +39,3 @@ function gerarCodigoQr() {
     }
 }
 
-// https://ephemeral-bubblegum-70cb6e.netlify.app/ - USAR ESSE LINK PARA COLOCAR NA ABA DE PESQUISA
